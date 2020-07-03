@@ -1,0 +1,30 @@
+{
+  "name": "onlinemodpackmaker",
+  "version": "1.0.0",
+  "description": "An online app capable of creating modpacks and export to twitch launcher profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ENDERZOMBI102/OnlineModpackMaker.git"
+  },
+  "keywords": [
+    "minecraft",
+    "mod",
+    "curseforge"
+  ],
+  "author": "ENDERZOMBI102",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ENDERZOMBI102/OnlineModpackMaker/issues"
+  },
+  "homepage": "https://github.com/ENDERZOMBI102/OnlineModpackMaker#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "brython": "^3.8.9",
+    "jquery": "^3.5.1",
+    "typescript": "^3.9.6"
+  }
+}
